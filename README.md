@@ -91,5 +91,4 @@ This project strengthened my skills in:
 
 - Power BI Sample Dataset – Microsoft
 - Inspiration from various Power BI community dashboards and LinkedIn posts
-
 ---
